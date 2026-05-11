@@ -153,6 +153,4 @@ https://github.com/swathimegavath/mnist-cnn-digit-classifier
 
 ---
 
-## 📝 License
 
-This project is submitted as coursework for a Machine Learning module. All code is original unless noted otherwise.
