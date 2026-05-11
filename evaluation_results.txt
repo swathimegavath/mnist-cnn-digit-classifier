@@ -1,0 +1,4 @@
+MNIST CNN Evaluation Results
+===================================
+Test Accuracy : 99.57%
+Test Loss     : 0.0170
