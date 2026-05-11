@@ -73,8 +73,8 @@ mnist_digit_recogniser/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/mnist-digit-recogniser.git
-cd mnist-digit-recogniser
+git clone https://github.com/swathimegavath/mnist-cnn-digit-classifier.git
+cd Machine_Learning_Assignment_Complete
 ```
 
 ### 2. Create and activate a virtual environment
@@ -128,7 +128,7 @@ Then open **http://localhost:8501** in your browser.
    - The preprocessed 28 × 28 version of your image
    - A bar chart showing the model's confidence for all ten digits
 
-> **Note:** Use your own handwritten digit images—not images from the MNIST dataset. Write a digit on paper, take a photo, and upload it.
+>  handwritten digit images from the MNIST dataset. Write a digit on paper and uploaded 
 
 ---
 
@@ -142,22 +142,14 @@ Then open **http://localhost:8501** in your browser.
 | Training epochs | Up to 15 (early stopping) |
 
 ---
-
-## 🖼️ Screenshots
-
-### Home Screen
-> *(Upload your screenshots here after running the app)*
-
-```
-results/screenshot_home.png
-results/screenshot_prediction.png
 ```
 
 ---
 
 ## 📎 GitHub Link
 
-[https://github.com/\<your-username\>/mnist-digit-recogniser](https://github.com/<your-username>/mnist-digit-recogniser)
+
+https://github.com/swathimegavath/mnist-cnn-digit-classifier
 
 ---
 
